@@ -1,0 +1,32 @@
+.button{
+  background-color: blue;
+}
+
+.button:hover{
+  background-color: rgb(87, 241, 66);
+  color: #010101;
+  
+}
+
+.main-cls{
+  width: 70%!important;
+  height: 200px;
+  color: #52e721;
+  font-size: 18px;
+  background-color: #A91D3A;
+  margin-top: 200px;
+  align-items: center;
+  justify-content: center;
+}
+
+.inp{
+  background-color: #000000;
+}
+
+h1{
+  color: #EEEEEE;
+}
+label{
+  color: black;
+  font-weight: 500;
+}
